@@ -1,0 +1,47 @@
+[
+  {
+    "route_number": "58",
+    "route_description": "Turbhe Depot - Khopoli Via Vashi Highway",
+    "url": "https://moovitapp.com/index/en/public_transit-line-58-Mumbai-3732-1016766-311757295-0"
+  },
+  {
+    "route_number": "58",
+    "route_description": "Belapur Station - Khopoli",
+    "url": "https://moovitapp.com/index/en/public_transit-line-58-Mumbai-3732-1016766-87484745-0"
+  },
+  {
+    "route_number": "KMT",
+    "route_description": "Khopoli - Mahad Gaon",
+    "url": "https://moovitapp.com/index/en/public_transit-line-KMT-Mumbai-3732-983981-262745645-0"
+  },
+  {
+    "route_number": "KMT",
+    "route_description": "Khopoli - Panvel Station (W)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-KMT-Mumbai-3732-983981-262745647-0"
+  },
+  {
+    "route_number": "KMT",
+    "route_description": "Khopoli - Vashi Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-KMT-Mumbai-3732-983981-262745646-0"
+  },
+  {
+    "route_number": "KMT",
+    "route_description": "Khopoli - Musco",
+    "url": "https://moovitapp.com/index/en/public_transit-line-KMT-Mumbai-3732-983981-262745649-0"
+  },
+  {
+    "route_number": "KMT",
+    "route_description": "Khopoli - Adoshi Gaon",
+    "url": "https://moovitapp.com/index/en/public_transit-line-KMT-Mumbai-3732-983981-262745651-0"
+  },
+  {
+    "route_number": "KMT",
+    "route_description": "Khopoli - Devnhave Adlabs Imagica",
+    "url": "https://moovitapp.com/index/en/public_transit-line-KMT-Mumbai-3732-983981-262745650-0"
+  },
+  {
+    "route_number": "KMT",
+    "route_description": "Khopoli - Khalapur",
+    "url": "https://moovitapp.com/index/en/public_transit-line-KMT-Mumbai-3732-983981-262745652-0"
+  }
+]

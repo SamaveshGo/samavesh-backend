@@ -1,0 +1,22 @@
+[
+  {
+    "route_number": "101",
+    "route_description": "Shahad Station - Shiv Mandir",
+    "url": "https://moovitapp.com/index/en/public_transit-line-101-Mumbai-3732-3775650-260195905-0"
+  },
+  {
+    "route_number": "102",
+    "route_description": "UMC Hospital - Shiv Mandir",
+    "url": "https://moovitapp.com/index/en/public_transit-line-102-Mumbai-3732-3775650-260195906-0"
+  },
+  {
+    "route_number": "201AC",
+    "route_description": "Kalyan Station - Badlapur Station (W)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-201AC-Mumbai-3732-3775649-306279207-0"
+  },
+  {
+    "route_number": "202AC",
+    "route_description": "Shahad Station (E) - Titwala Station (E)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-202AC-Mumbai-3732-3775649-320230398-0"
+  }
+]

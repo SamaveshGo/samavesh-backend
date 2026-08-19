@@ -1,0 +1,1652 @@
+[
+  {
+    "route_number": "2 LTD",
+    "route_description": "Colaba Depot - Bandra Colony Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-2_LTD-Mumbai-3732-857915-300966836-0"
+  },
+  {
+    "route_number": "3",
+    "route_description": "Jijamata Udyan (Byculla) - Navy Nagar (Colaba)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-3-Mumbai-3732-857915-585296-0"
+  },
+  {
+    "route_number": "6 LTD",
+    "route_description": "Backbay Depot - Gawangaon Refineries",
+    "url": "https://moovitapp.com/index/en/public_transit-line-6_LTD-Mumbai-3732-857915-331071705-0"
+  },
+  {
+    "route_number": "6 LTD",
+    "route_description": "Backbay Depot - Tata Power Centre (Mahul)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-6_LTD-Mumbai-3732-857915-331071702-0"
+  },
+  {
+    "route_number": "9",
+    "route_description": "Colaba Bus Station - Antop Hill",
+    "url": "https://moovitapp.com/index/en/public_transit-line-9-Mumbai-3732-857915-585298-0"
+  },
+  {
+    "route_number": "11",
+    "route_description": "Bandra Colony Bus Station - Sion Railway Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-11-Mumbai-3732-857915-309311184-0"
+  },
+  {
+    "route_number": "11 LTD",
+    "route_description": "Bandra Colony Bus Station - Navy Nagar (Colaba)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-11_LTD-Mumbai-3732-857915-300966849-0"
+  },
+  {
+    "route_number": "C-12",
+    "route_description": "Santacruz Depot - Dahisar Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-C_12-Mumbai-3732-857915-62765028-0"
+  },
+  {
+    "route_number": "13",
+    "route_description": "Wadala Station (W) - Mahatma Gandhi Hospital (Parel)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-13-Mumbai-3732-857915-248313542-0"
+  },
+  {
+    "route_number": "14",
+    "route_description": "Pratiksh Nagar Depot - Dr.Shyamaprasad Mukherjee Chowk (Museum)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-14-Mumbai-3732-857915-590414-0"
+  },
+  {
+    "route_number": "15",
+    "route_description": "Pratiksha Nagar Depot - Mantralaya",
+    "url": "https://moovitapp.com/index/en/public_transit-line-15-Mumbai-3732-857915-585300-0"
+  },
+  {
+    "route_number": "27",
+    "route_description": "Rani Laxmibai Chowk (Sion) - Vaishali Nagar (Mulund)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-27-Mumbai-3732-857915-585468-0"
+  },
+  {
+    "route_number": "28",
+    "route_description": "JVPD Bus Station - Chhatrapati Shivaji Maharaj Terminus",
+    "url": "https://moovitapp.com/index/en/public_transit-line-28-Mumbai-3732-857915-35025176-0"
+  },
+  {
+    "route_number": "29 LTD",
+    "route_description": "Prabodhankar Thackeray Udyan Bus Station (Sewree) - Vihar Lake",
+    "url": "https://moovitapp.com/index/en/public_transit-line-29_LTD-Mumbai-3732-857915-300966854-0"
+  },
+  {
+    "route_number": "29 LTD",
+    "route_description": "Khodadad Circle (Dadar TT) - Vihar Lake",
+    "url": "https://moovitapp.com/index/en/public_transit-line-29_LTD-Mumbai-3732-857915-325644974-0"
+  },
+  {
+    "route_number": "C-40",
+    "route_description": "Dindoshi Bus Station - Prabodhankar Thackeray Udyan Bus Station (Sewree)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-C_40-Mumbai-3732-857915-62765035-0"
+  },
+  {
+    "route_number": "46",
+    "route_description": "Dharavi Depot - Ferry Wharf",
+    "url": "https://moovitapp.com/index/en/public_transit-line-46-Mumbai-3732-857915-668965-0"
+  },
+  {
+    "route_number": "50",
+    "route_description": "Worli Depot - Ferry Wharf",
+    "url": "https://moovitapp.com/index/en/public_transit-line-50-Mumbai-3732-857915-585698-0"
+  },
+  {
+    "route_number": "51",
+    "route_description": "Santacruz Depot - Colaba Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-51-Mumbai-3732-857915-226353191-0"
+  },
+  {
+    "route_number": "52",
+    "route_description": "Dharavi Depot - Shrawan Yashwante Chowk (Kala Chowky)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-52-Mumbai-3732-857915-631486-0"
+  },
+  {
+    "route_number": "C-54",
+    "route_description": "Wadala Depot - Airoli Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-C_54-Mumbai-3732-857915-62765042-0"
+  },
+  {
+    "route_number": "C-55",
+    "route_description": "Santacruz Depot - CBD Belapur Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-C_55-Mumbai-3732-857915-62765043-0"
+  },
+  {
+    "route_number": "57",
+    "route_description": "Prabodhankar Thackeray Udyan Bus Station (Sewree) - Walkeshwar",
+    "url": "https://moovitapp.com/index/en/public_transit-line-57-Mumbai-3732-857915-668967-0"
+  },
+  {
+    "route_number": "60",
+    "route_description": "Kurla Bus Station (E) - Maharana Pratap Chowk (Mazgaon)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-60-Mumbai-3732-857915-109721292-0"
+  },
+  {
+    "route_number": "C-61",
+    "route_description": "Mulund Depot - Mira Road Station (E)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-C_61-Mumbai-3732-857915-62765046-0"
+  },
+  {
+    "route_number": "64",
+    "route_description": "Dadar Station (E) - New Hind Mill Mhada Colony",
+    "url": "https://moovitapp.com/index/en/public_transit-line-64-Mumbai-3732-857915-271300588-0"
+  },
+  {
+    "route_number": "66",
+    "route_description": "Rani Laxmibai Chowk (Sion) - Ballard Pier",
+    "url": "https://moovitapp.com/index/en/public_transit-line-66-Mumbai-3732-857915-68579177-0"
+  },
+  {
+    "route_number": "67",
+    "route_description": "Antop Hill - Walkeshwar",
+    "url": "https://moovitapp.com/index/en/public_transit-line-67-Mumbai-3732-857915-585710-0"
+  },
+  {
+    "route_number": "69",
+    "route_description": "Prabodhankar Thackeray Udyan Bus Station (Sewree) - Dr.Shyamaprasad Mukherjee Chowk (Museum)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-69-Mumbai-3732-857915-668970-0"
+  },
+  {
+    "route_number": "C-71",
+    "route_description": "Dharavi Depot - Mira Road Station (E)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-C_71-Mumbai-3732-857915-265602378-0"
+  },
+  {
+    "route_number": "75",
+    "route_description": "Chunabhatti Bus Station - Valencia Building",
+    "url": "https://moovitapp.com/index/en/public_transit-line-75-Mumbai-3732-857915-181033354-0"
+  },
+  {
+    "route_number": "79",
+    "route_description": "Santacruz Depot - Prabodhankar Thackeray Nagar Bus Station (Charkop Bus Station)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-79-Mumbai-3732-857915-586762-0"
+  },
+  {
+    "route_number": "83",
+    "route_description": "Santacruz Depot - Pandit Paluskar Chowk (Opera House)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-83-Mumbai-3732-857915-141190767-0"
+  },
+  {
+    "route_number": "83",
+    "route_description": "Santacruz Depot - Colaba Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-83-Mumbai-3732-857915-141190772-0"
+  },
+  {
+    "route_number": "C-86",
+    "route_description": "Backbay Depot - Bandra (W) Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-C_86-Mumbai-3732-857915-216205751-0"
+  },
+  {
+    "route_number": "87 LTD",
+    "route_description": "Bandra Colony Bus Station - Vasantrao Naik Chowk (Tardeo)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-87_LTD-Mumbai-3732-857915-300966880-0"
+  },
+  {
+    "route_number": "87 LTD",
+    "route_description": "Bandra Colony Bus Station - Mantralaya",
+    "url": "https://moovitapp.com/index/en/public_transit-line-87_LTD-Mumbai-3732-857915-300966879-0"
+  },
+  {
+    "route_number": "88",
+    "route_description": "Pratiksha Nagar Depot - Mantralaya",
+    "url": "https://moovitapp.com/index/en/public_transit-line-88-Mumbai-3732-857915-60149061-0"
+  },
+  {
+    "route_number": "100",
+    "route_description": "Ahilyabai Holkar Chowk (Churchgate) - Free Press Journal Marg",
+    "url": "https://moovitapp.com/index/en/public_transit-line-100-Mumbai-3732-857915-60237118-0"
+  },
+  {
+    "route_number": "110",
+    "route_description": "Comrade PK Kurne Chowk (Worli) - Sangam Nagar (Wadala E)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-110-Mumbai-3732-857915-60237121-0"
+  },
+  {
+    "route_number": "120",
+    "route_description": "Pandit Paluskar Chowk (Opera House) - Mangaldas Market",
+    "url": "https://moovitapp.com/index/en/public_transit-line-120-Mumbai-3732-857915-262983621-0"
+  },
+  {
+    "route_number": "139",
+    "route_description": "Chhatrapati Shivaji Maharaj Terminus - Geetanagar (Colaba)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-139-Mumbai-3732-857915-219314261-0"
+  },
+  {
+    "route_number": "139",
+    "route_description": "Colaba Depot (Electric House) - Geetanagar (Colaba)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-139-Mumbai-3732-857915-202886218-0"
+  },
+  {
+    "route_number": "151",
+    "route_description": "Wadala Depot - J.Mehta Marg (Napean Sea Road)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-151-Mumbai-3732-857915-323673703-0"
+  },
+  {
+    "route_number": "153",
+    "route_description": "Byculla Station (W) - Nair Hospital",
+    "url": "https://moovitapp.com/index/en/public_transit-line-153-Mumbai-3732-857915-271300604-0"
+  },
+  {
+    "route_number": "165",
+    "route_description": "Wadala Depot - Kasturba Gandhi Chowk CP Tank",
+    "url": "https://moovitapp.com/index/en/public_transit-line-165-Mumbai-3732-857915-58312671-0"
+  },
+  {
+    "route_number": "168",
+    "route_description": "Wadala Depot - Parel ST Depot (Sant Rohidas Chowk)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-168-Mumbai-3732-857915-305932121-0"
+  },
+  {
+    "route_number": "168EXT",
+    "route_description": "Jijamata Udyan (Byculla) - Lal Bahadur Shastri College",
+    "url": "https://moovitapp.com/index/en/public_transit-line-168EXT-Mumbai-3732-857915-305932123-0"
+  },
+  {
+    "route_number": "169",
+    "route_description": "Pratiksha Nagar Depot - Worli Depot",
+    "url": "https://moovitapp.com/index/en/public_transit-line-169-Mumbai-3732-857915-92856029-0"
+  },
+  {
+    "route_number": "172",
+    "route_description": "Pratiksha Nagar Depot - Comrade PK Kurne Chowk (Worli)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-172-Mumbai-3732-857915-596720-0"
+  },
+  {
+    "route_number": "174",
+    "route_description": "Wadala Station (W) - Bharani Naka (Antop Hill)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-174-Mumbai-3732-857915-271300610-0"
+  },
+  {
+    "route_number": "177",
+    "route_description": "Hindmata Cinema (Dadar) - Shrawan Yashwante Chowk (Kala Chowky)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-177-Mumbai-3732-857915-271300611-0"
+  },
+  {
+    "route_number": "181",
+    "route_description": "Antop Hill To Marol Depot",
+    "url": "https://moovitapp.com/index/en/public_transit-line-181-Mumbai-3732-857915-280679192-0"
+  },
+  {
+    "route_number": "181",
+    "route_description": "Antop Hill Extension - Marol Depot",
+    "url": "https://moovitapp.com/index/en/public_transit-line-181-Mumbai-3732-857915-280679193-0"
+  },
+  {
+    "route_number": "182",
+    "route_description": "Bandra (E) Bus Station - Diamond Bourse (BKC)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-182-Mumbai-3732-857915-218440001-0"
+  },
+  {
+    "route_number": "186",
+    "route_description": "Agarkar Chowk (Andheri-E) - Vihar Lake",
+    "url": "https://moovitapp.com/index/en/public_transit-line-186-Mumbai-3732-857915-585339-0"
+  },
+  {
+    "route_number": "187",
+    "route_description": "Bandra (E) Bus Station - CA Institute (BKC)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-187-Mumbai-3732-857915-26997375-0"
+  },
+  {
+    "route_number": "201",
+    "route_description": "Santacruz Depot - Parel ST Depot (Sant Rohidas Chowk)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-201-Mumbai-3732-857915-267597645-0"
+  },
+  {
+    "route_number": "203",
+    "route_description": "Juhu Beach Bus Station - Dahisar Bridge",
+    "url": "https://moovitapp.com/index/en/public_transit-line-203-Mumbai-3732-857915-585342-0"
+  },
+  {
+    "route_number": "210 LTD",
+    "route_description": "Vesave Yari Road Bus Station - Dahisar Bridge",
+    "url": "https://moovitapp.com/index/en/public_transit-line-210_LTD-Mumbai-3732-857915-301062203-0"
+  },
+  {
+    "route_number": "212",
+    "route_description": "Prabodhankar Thackeray Udyan Bus Station (Sewree) - Bandra Reclamation Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-212-Mumbai-3732-857915-585346-0"
+  },
+  {
+    "route_number": "216",
+    "route_description": "Dadar Station (E) - Mhada Colony (Bhoiwada)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-216-Mumbai-3732-857915-225198871-0"
+  },
+  {
+    "route_number": "217",
+    "route_description": "Dadar Station (E) - Mint Colony",
+    "url": "https://moovitapp.com/index/en/public_transit-line-217-Mumbai-3732-857915-224937458-0"
+  },
+  {
+    "route_number": "217",
+    "route_description": "Dadar Station (E) - Mahatma Gandhi Hospital (Parel)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-217-Mumbai-3732-857915-224937459-0"
+  },
+  {
+    "route_number": "217EXT",
+    "route_description": "Wadala Depot - Dadar Station (E)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-217EXT-Mumbai-3732-857915-254574198-0"
+  },
+  {
+    "route_number": "218",
+    "route_description": "Dadar Station (E) - Prabodhankar Thackeray Udyan Bus Station (Sewree)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-218-Mumbai-3732-857915-224937456-0"
+  },
+  {
+    "route_number": "222",
+    "route_description": "Bandra Station (W) - Chuim Village",
+    "url": "https://moovitapp.com/index/en/public_transit-line-222-Mumbai-3732-857915-100464100-0"
+  },
+  {
+    "route_number": "223 LTD",
+    "route_description": "Seven Bungalow Bus Station - Samata Nagar Bus Station (Kandivali-E)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-223_LTD-Mumbai-3732-857915-301062204-0"
+  },
+  {
+    "route_number": "225",
+    "route_description": "Bandra (W) Bus Station - Dindoshi Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-225-Mumbai-3732-857915-212828616-0"
+  },
+  {
+    "route_number": "231",
+    "route_description": "Santacruz Station (W) - Juhu Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-231-Mumbai-3732-857915-100917483-0"
+  },
+  {
+    "route_number": "239",
+    "route_description": "Kandivali Station (W) - Charkop Sector No.9",
+    "url": "https://moovitapp.com/index/en/public_transit-line-239-Mumbai-3732-857915-585356-0"
+  },
+  {
+    "route_number": "242 RING",
+    "route_description": "Andheri Station (W) - Millat Nagar",
+    "url": "https://moovitapp.com/index/en/public_transit-line-242_RING-Mumbai-3732-857915-321741168-0"
+  },
+  {
+    "route_number": "249",
+    "route_description": "Andheri Station (W) - Vesave Yari Road Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-249-Mumbai-3732-857915-265001805-0"
+  },
+  {
+    "route_number": "252",
+    "route_description": "Andheri Station (W) - Sardar Patel Nagar (Park Street)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-252-Mumbai-3732-857915-265001807-0"
+  },
+  {
+    "route_number": "255LTD",
+    "route_description": "Pratiksha Nagar Depot - JVPD Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-255LTD-Mumbai-3732-857915-58430482-0"
+  },
+  {
+    "route_number": "257",
+    "route_description": "Andheri Station (W) - JVPD Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-257-Mumbai-3732-857915-265001809-0"
+  },
+  {
+    "route_number": "262",
+    "route_description": "Malad Depot - Goregaon (W) Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-262-Mumbai-3732-857915-62538344-0"
+  },
+  {
+    "route_number": "263",
+    "route_description": "Goregaon (W) Bus Station - Ayyappa Mandir (Goregaon)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-263-Mumbai-3732-857915-264270226-0"
+  },
+  {
+    "route_number": "264",
+    "route_description": "Sadbhakti Mandir - Samarth Nagar (Jogeshwari)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-264-Mumbai-3732-857915-270375849-0"
+  },
+  {
+    "route_number": "266",
+    "route_description": "Andheri Station (W) - Shree Swami Samarth Nagar (Extension)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-266-Mumbai-3732-857915-585369-0"
+  },
+  {
+    "route_number": "270",
+    "route_description": "Malad Station (W) - Mahapalika Pumping Centre (Malvani)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-270-Mumbai-3732-857915-269271932-0"
+  },
+  {
+    "route_number": "271",
+    "route_description": "Malad Station (W) - Madh Jetty",
+    "url": "https://moovitapp.com/index/en/public_transit-line-271-Mumbai-3732-857915-585372-0"
+  },
+  {
+    "route_number": "272",
+    "route_description": "Malad Station (W) - Marve Beach (Essel World)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-272-Mumbai-3732-857915-585373-0"
+  },
+  {
+    "route_number": "279",
+    "route_description": "Poisar Depot - Samata Nagar Bus Station (Kandivali)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-279-Mumbai-3732-857915-231960102-0"
+  },
+  {
+    "route_number": "303",
+    "route_description": "Bandra (E) Bus Station - Mulund Station (W)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-303-Mumbai-3732-857915-590428-0"
+  },
+  {
+    "route_number": "C-305",
+    "route_description": "Backbay Depot - Dharavi Depot",
+    "url": "https://moovitapp.com/index/en/public_transit-line-C_305-Mumbai-3732-857915-179648360-0"
+  },
+  {
+    "route_number": "307",
+    "route_description": "Majas Depot - Vaishali Nagar (Mulund-W)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-307-Mumbai-3732-857915-590430-0"
+  },
+  {
+    "route_number": "308",
+    "route_description": "Majas Depot - Vidyavihar Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-308-Mumbai-3732-857915-590431-0"
+  },
+  {
+    "route_number": "310",
+    "route_description": "Kurla Station (W) - Bandra Terminus",
+    "url": "https://moovitapp.com/index/en/public_transit-line-310-Mumbai-3732-857915-585730-0"
+  },
+  {
+    "route_number": "312",
+    "route_description": "Pratiksha Nagar Depot - Seepz Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-312-Mumbai-3732-857915-668974-0"
+  },
+  {
+    "route_number": "316",
+    "route_description": "Bandra Terminus - Bandra Colony Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-316-Mumbai-3732-857915-585732-0"
+  },
+  {
+    "route_number": "317",
+    "route_description": "Bandra Terminus - Tata Colony (Bandra-E)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-317-Mumbai-3732-857915-585733-0"
+  },
+  {
+    "route_number": "320",
+    "route_description": "Kurla Station (W) - Filter Pada",
+    "url": "https://moovitapp.com/index/en/public_transit-line-320-Mumbai-3732-857915-110275697-0"
+  },
+  {
+    "route_number": "321 LTD",
+    "route_description": "Kalanagar (Bandra) - Barve Nagar",
+    "url": "https://moovitapp.com/index/en/public_transit-line-321_LTD-Mumbai-3732-857915-301062205-0"
+  },
+  {
+    "route_number": "321LTD",
+    "route_description": "Mahim Bus Station - Barve Nagar",
+    "url": "https://moovitapp.com/index/en/public_transit-line-321LTD-Mumbai-3732-857915-59503253-0"
+  },
+  {
+    "route_number": "327",
+    "route_description": "Goregaon (E) Bus Station - Shivshahi Prakalp (Mantri Park)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-327-Mumbai-3732-857915-590438-0"
+  },
+  {
+    "route_number": "333",
+    "route_description": "Kondivita Caves (Mahakali Caves) - New Quarters (Maharshi Valmiki Chowk)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-333-Mumbai-3732-857915-63560076-0"
+  },
+  {
+    "route_number": "335",
+    "route_description": "Agarkar Chowk (Andheri-E) - Sangharsh Nagar (Chandivali)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-335-Mumbai-3732-857915-590445-0"
+  },
+  {
+    "route_number": "337",
+    "route_description": "Agarkar Chowk (Andheri) - Chhatrapati Shivaji Maharaj International Airport (Sahar)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-337-Mumbai-3732-857915-264270258-0"
+  },
+  {
+    "route_number": "338",
+    "route_description": "Agarkar Chowk (Andheri) - Sahar Cargo Complex",
+    "url": "https://moovitapp.com/index/en/public_transit-line-338-Mumbai-3732-857915-264270259-0"
+  },
+  {
+    "route_number": "339",
+    "route_description": "Majas Depot - Juhu Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-339-Mumbai-3732-857915-63694678-0"
+  },
+  {
+    "route_number": "342",
+    "route_description": "Goregaon Check Naka No.1 - Kokan Vikas Mahamandal (Aarey)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-342-Mumbai-3732-857915-213074859-0"
+  },
+  {
+    "route_number": "342",
+    "route_description": "Goregaon (E) Bus Station - Kokan Vikas Mahamandal (Aarey)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-342-Mumbai-3732-857915-213074858-0"
+  },
+  {
+    "route_number": "344",
+    "route_description": "Goregaon (E) Bus Station - Sankalp Society (Nagari Niwara)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-344-Mumbai-3732-857915-30035005-0"
+  },
+  {
+    "route_number": "346",
+    "route_description": "Goregaon (E) Bus Station - Shivshahi Prakalp (Mantri Park)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-346-Mumbai-3732-857915-270123155-0"
+  },
+  {
+    "route_number": "346",
+    "route_description": "Goregaon (E) Bus Station - Nagari Niwara Zone 1 & 2",
+    "url": "https://moovitapp.com/index/en/public_transit-line-346-Mumbai-3732-857915-270123154-0"
+  },
+  {
+    "route_number": "348LTD",
+    "route_description": "Pratiksha Nagar Depot - Dindoshi Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-348LTD-Mumbai-3732-857915-58430491-0"
+  },
+  {
+    "route_number": "349",
+    "route_description": "Marol Depot - Santosh Nagar (Extension)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-349-Mumbai-3732-857915-64722110-0"
+  },
+  {
+    "route_number": "352",
+    "route_description": "Rani Laxmibai Chowk (Sion) - Trombay",
+    "url": "https://moovitapp.com/index/en/public_transit-line-352-Mumbai-3732-857915-590459-0"
+  },
+  {
+    "route_number": "363",
+    "route_description": "Kurla Bus Station (E) - Mahul Village",
+    "url": "https://moovitapp.com/index/en/public_transit-line-363-Mumbai-3732-857915-631496-0"
+  },
+  {
+    "route_number": "368 LTD",
+    "route_description": "Mulund Depot - Prabodhankar Thackeray Udyan Bus Station (Sewree)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-368_LTD-Mumbai-3732-857915-301319617-0"
+  },
+  {
+    "route_number": "372",
+    "route_description": "Shivaji Nagar Bus Station - Shivaji Nagar (Govandi) Terminus",
+    "url": "https://moovitapp.com/index/en/public_transit-line-372-Mumbai-3732-857915-254328664-0"
+  },
+  {
+    "route_number": "374",
+    "route_description": "Santacruz Depot - Sion Railway Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-374-Mumbai-3732-857915-331071703-0"
+  },
+  {
+    "route_number": "382 LTD",
+    "route_description": "Deonar Depot To Sahar Cargo Complex",
+    "url": "https://moovitapp.com/index/en/public_transit-line-382_LTD-Mumbai-3732-857915-354720610-0"
+  },
+  {
+    "route_number": "382 LTD",
+    "route_description": "Anushakti Nagar Bus Station - Sahar Cargo Complex",
+    "url": "https://moovitapp.com/index/en/public_transit-line-382_LTD-Mumbai-3732-857915-354720611-0"
+  },
+  {
+    "route_number": "398 LTD",
+    "route_description": "Dindoshi Depot - Maharana Pratap Chowk (Mulund Check Naka)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-398_LTD-Mumbai-3732-857915-301062206-0"
+  },
+  {
+    "route_number": "406",
+    "route_description": "Ghatkopar Station (E) - Railway Police Colony (Ghatkopar)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-406-Mumbai-3732-857915-219614443-0"
+  },
+  {
+    "route_number": "411",
+    "route_description": "Wadala Depot - Sangharsh Nagar (Chandivali)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-411-Mumbai-3732-857915-631517-0"
+  },
+  {
+    "route_number": "418",
+    "route_description": "Nagbaba Mandir (Kailas Complex) To Vikhroli Depot",
+    "url": "https://moovitapp.com/index/en/public_transit-line-418-Mumbai-3732-857915-270886171-0"
+  },
+  {
+    "route_number": "418",
+    "route_description": "Vikhroli Station (W) - Nagbaba Mandir (Kailas Complex)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-418-Mumbai-3732-857915-219614451-0"
+  },
+  {
+    "route_number": "418",
+    "route_description": "Vikhroli Station (W) - Hiranandani Powai Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-418-Mumbai-3732-857915-219614450-0"
+  },
+  {
+    "route_number": "418",
+    "route_description": "Vikhroli Depot To Hiranandani Powai Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-418-Mumbai-3732-857915-219614449-0"
+  },
+  {
+    "route_number": "426",
+    "route_description": "Vidyavihar Bus Station - Filter Pada",
+    "url": "https://moovitapp.com/index/en/public_transit-line-426-Mumbai-3732-857915-65693639-0"
+  },
+  {
+    "route_number": "428",
+    "route_description": "Sadbhakti Mandir - Chhatrapati Shivaji Maharaj Talao (Bhandup)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-428-Mumbai-3732-857915-668978-0"
+  },
+  {
+    "route_number": "434",
+    "route_description": "Agarkar Chowk (Andheri-E) - Bamandaya Pada",
+    "url": "https://moovitapp.com/index/en/public_transit-line-434-Mumbai-3732-857915-631526-0"
+  },
+  {
+    "route_number": "C-440",
+    "route_description": "Wadala Depot - Borivali Station (E)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-C_440-Mumbai-3732-857915-62765073-0"
+  },
+  {
+    "route_number": "441",
+    "route_description": "Majas Depot - Agarkar Chowk (Andheri-E)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-441-Mumbai-3732-857915-631528-0"
+  },
+  {
+    "route_number": "442",
+    "route_description": "Mhada Colony (Majas) - Sadbhakti Mandir (Jogeshwari)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-442-Mumbai-3732-857915-270375913-0"
+  },
+  {
+    "route_number": "443",
+    "route_description": "Agarkar Chowk (Andheri-E) - Bamandaya Pada",
+    "url": "https://moovitapp.com/index/en/public_transit-line-443-Mumbai-3732-857915-631530-0"
+  },
+  {
+    "route_number": "446",
+    "route_description": "Kurla Station (W) - Bamandaya Pada",
+    "url": "https://moovitapp.com/index/en/public_transit-line-446-Mumbai-3732-857915-631531-0"
+  },
+  {
+    "route_number": "447",
+    "route_description": "Goregaon (E) Bus Station - Santosh Nagar (Extension)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-447-Mumbai-3732-857915-271300720-0"
+  },
+  {
+    "route_number": "449",
+    "route_description": "Dindoshi Bus Station - Late Balasaheb Thackeray Trauma Center | SRP Camp",
+    "url": "https://moovitapp.com/index/en/public_transit-line-449-Mumbai-3732-857915-270375915-0"
+  },
+  {
+    "route_number": "460 LTD",
+    "route_description": "Gorai Depot - Mulund Station (W)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-460_LTD-Mumbai-3732-857915-301062207-0"
+  },
+  {
+    "route_number": "489LTD",
+    "route_description": "Shivaji Nagar Bus Station - Dindoshi Depot",
+    "url": "https://moovitapp.com/index/en/public_transit-line-489LTD-Mumbai-3732-857915-58430519-0"
+  },
+  {
+    "route_number": "496 LTD",
+    "route_description": "Agarkar Chowk (Andheri-E) - Marathon Chowk (Teen Hath Naka)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-496_LTD-Mumbai-3732-857915-592256-0"
+  },
+  {
+    "route_number": "501LTD",
+    "route_description": "Airoli Bus Station To Umarshi Bappa Chowk",
+    "url": "https://moovitapp.com/index/en/public_transit-line-501LTD-Mumbai-3732-857915-266306749-0"
+  },
+  {
+    "route_number": "501LTD",
+    "route_description": "Kurla Bus Station (E) - Airoli Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-501LTD-Mumbai-3732-857915-65367321-0"
+  },
+  {
+    "route_number": "C-505",
+    "route_description": "Santacruz Depot - CBD Belapur Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-C_505-Mumbai-3732-857915-216205765-0"
+  },
+  {
+    "route_number": "512 LTD",
+    "route_description": "Maharana Pratap Chowk (Mulund Check Naka) - Airoli Sector No.10",
+    "url": "https://moovitapp.com/index/en/public_transit-line-512_LTD-Mumbai-3732-857915-301062209-0"
+  },
+  {
+    "route_number": "512 LTD",
+    "route_description": "Maharana Pratap Chowk (Mulund Check Naka) - Nerul Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-512_LTD-Mumbai-3732-857915-301062208-0"
+  },
+  {
+    "route_number": "C-513",
+    "route_description": "Mulund Depot - Vashi Railway Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-C_513-Mumbai-3732-857915-62765075-0"
+  },
+  {
+    "route_number": "C-521",
+    "route_description": "Wadala Depot - Ghansoli Village",
+    "url": "https://moovitapp.com/index/en/public_transit-line-C_521-Mumbai-3732-857915-265602396-0"
+  },
+  {
+    "route_number": "522 LTD",
+    "route_description": "Majas Depot - Millennium Business Park (Mahape)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-522_LTD-Mumbai-3732-857915-301062210-0"
+  },
+  {
+    "route_number": "523LTD",
+    "route_description": "Dindoshi Bus Station - Airoli Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-523LTD-Mumbai-3732-857915-66748934-0"
+  },
+  {
+    "route_number": "525 LTD",
+    "route_description": "Majas Depot - Vashi Railway Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-525_LTD-Mumbai-3732-857915-331474705-0"
+  },
+  {
+    "route_number": "545 LTD",
+    "route_description": "Agarkar Chowk (Andheri-E) - Airoli Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-545_LTD-Mumbai-3732-857915-631592-0"
+  },
+  {
+    "route_number": "545 LTD",
+    "route_description": "Seepz Village To Airoli Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-545_LTD-Mumbai-3732-857915-301062211-0"
+  },
+  {
+    "route_number": "601",
+    "route_description": "Malad Station (Poddar Park) - Triveni Nagar",
+    "url": "https://moovitapp.com/index/en/public_transit-line-601-Mumbai-3732-857915-591939-0"
+  },
+  {
+    "route_number": "605",
+    "route_description": "Bhandup Station (W) - Tembhi Pada Naka",
+    "url": "https://moovitapp.com/index/en/public_transit-line-605-Mumbai-3732-857915-314535440-0"
+  },
+  {
+    "route_number": "608",
+    "route_description": "Kanjurmarg Station (W) - Hanuman Nagar (Bhandup)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-608-Mumbai-3732-857915-631541-0"
+  },
+  {
+    "route_number": "612",
+    "route_description": "Bhandup Station (W) - Hanuman Nagar Bhandup",
+    "url": "https://moovitapp.com/index/en/public_transit-line-612-Mumbai-3732-857915-631543-0"
+  },
+  {
+    "route_number": "613",
+    "route_description": "Vidyavihar Bus Station - Sundar Baug (Kamani)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-613-Mumbai-3732-857915-631544-0"
+  },
+  {
+    "route_number": "618",
+    "route_description": "Santacruz Station (E) - Datta Mandir (Vakola)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-618-Mumbai-3732-857915-109721468-0"
+  },
+  {
+    "route_number": "627",
+    "route_description": "Andheri Station (W) - Mora Village",
+    "url": "https://moovitapp.com/index/en/public_transit-line-627-Mumbai-3732-857915-265001900-0"
+  },
+  {
+    "route_number": "646",
+    "route_description": "Goregaon (E) Bus Station - Nagari Niwara Zone 1 & 2",
+    "url": "https://moovitapp.com/index/en/public_transit-line-646-Mumbai-3732-857915-271300738-0"
+  },
+  {
+    "route_number": "705 LTD",
+    "route_description": "Dindoshi Bus Station - Western Park (Kashi Village)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-705_LTD-Mumbai-3732-857915-302512925-0"
+  },
+  {
+    "route_number": "706 LTD",
+    "route_description": "Marol Depot - Bhayander Station (E)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-706_LTD-Mumbai-3732-857915-300966883-0"
+  },
+  {
+    "route_number": "707 LTD",
+    "route_description": "Goregaon Depot (Oshiwara Depot) - Bhayander Station (E)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-707_LTD-Mumbai-3732-857915-300966884-0"
+  },
+  {
+    "route_number": "710 LTD",
+    "route_description": "Magathane Depot - Bhayander Station (W)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-710_LTD-Mumbai-3732-857915-300966885-0"
+  },
+  {
+    "route_number": "C-718",
+    "route_description": "Dindoshi Bus Station - Bhayander Station (E)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-C_718-Mumbai-3732-857915-62765077-0"
+  },
+  {
+    "route_number": "A-1",
+    "route_description": "Santacruz Depot - Chhatrapati Shivaji Maharaj Terminus",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_1-Mumbai-3732-2111547-288725667-0"
+  },
+  {
+    "route_number": "A-4",
+    "route_description": "Goregaon Oshiwara Depot - JJ Hospital (Dr.M Iqbal Chowk)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_4-Mumbai-3732-2111547-308333596-0"
+  },
+  {
+    "route_number": "A-5",
+    "route_description": "Kurla Bus Station (E) - Mantralaya",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_5-Mumbai-3732-2111547-42106977-0"
+  },
+  {
+    "route_number": "A-7",
+    "route_description": "Vikhroli Depot - Vijay Vallabh Chowk (Pydhonie)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_7-Mumbai-3732-2111547-266307185-0"
+  },
+  {
+    "route_number": "A-8",
+    "route_description": "Shivaji Nagar (Govandi) Terminus - Mantralaya",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_8-Mumbai-3732-2111547-280679788-0"
+  },
+  {
+    "route_number": "A-8",
+    "route_description": "Shivaji Nagar (Govandi) Terminus - Hutatma Chowk",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_8-Mumbai-3732-2111547-280679789-0"
+  },
+  {
+    "route_number": "A-SPL-9",
+    "route_description": "Ahilyabai Holkar Chowk (Churchgate) - NCPA",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_SPL_9-Mumbai-3732-2111547-305932127-0"
+  },
+  {
+    "route_number": "A-10",
+    "route_description": "Anik Depot - Colaba Depot",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_10-Mumbai-3732-2111547-314535437-0"
+  },
+  {
+    "route_number": "A-19",
+    "route_description": "Shivaji Nagar Bus Station - Mantralaya",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_19-Mumbai-3732-2111547-271090787-0"
+  },
+  {
+    "route_number": "A-19",
+    "route_description": "Shivaji Nagar Bus Station - Hutatma Chowk",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_19-Mumbai-3732-2111547-271090788-0"
+  },
+  {
+    "route_number": "A-21",
+    "route_description": "Trombay - Dr.Shyamaprasad Mukherjee Chowk (Museum)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_21-Mumbai-3732-2111547-55380247-0"
+  },
+  {
+    "route_number": "A-21",
+    "route_description": "Dr.Shyamaprasad Mukherjee Chowk (Museum) To Anushakti Nagar Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_21-Mumbai-3732-2111547-263196772-0"
+  },
+  {
+    "route_number": "A-21",
+    "route_description": "Deonar Depot - Dr.Shyamaprasad Mukherjee Chowk (Museum)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_21-Mumbai-3732-2111547-91318429-0"
+  },
+  {
+    "route_number": "A-22",
+    "route_description": "Majas Depot - Jijamata Udyan (Byculla)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_22-Mumbai-3732-2111547-331475279-0"
+  },
+  {
+    "route_number": "A-22",
+    "route_description": "Kurla Station (W) - Bandra (E) Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_22-Mumbai-3732-2111547-345947943-0"
+  },
+  {
+    "route_number": "A-23",
+    "route_description": "Bandra (E) Bus Station - C.A Institute (B.K.C)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_23-Mumbai-3732-2111547-218440623-0"
+  },
+  {
+    "route_number": "A-25",
+    "route_description": "Backbay Depot - Rani Laxmibai Chowk Sion",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_25-Mumbai-3732-2111547-81353372-0"
+  },
+  {
+    "route_number": "AC-26",
+    "route_description": "Shivaji Nagar Bus Station - Colaba Depot (Electric House)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-AC_26-Mumbai-3732-2111547-85828140-0"
+  },
+  {
+    "route_number": "A-30",
+    "route_description": "Vikhroli Depot - Pandit Paluskar Chowk (Opera House)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_30-Mumbai-3732-2111547-42106983-0"
+  },
+  {
+    "route_number": "A-32",
+    "route_description": "Goregaon (W) Bus Station - Vesave Yari Road Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_32-Mumbai-3732-2111547-59974725-0"
+  },
+  {
+    "route_number": "A-33",
+    "route_description": "Goregaon (W) Bus Station - Worli Depot",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_33-Mumbai-3732-2111547-308333612-0"
+  },
+  {
+    "route_number": "A-35",
+    "route_description": "Majas Depot - Comrade PK Kurne Chowk (Worli)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_35-Mumbai-3732-2111547-302513365-0"
+  },
+  {
+    "route_number": "A-37",
+    "route_description": "Kurla Station (W) - J.Mehta Marg (Napean Sea Road)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_37-Mumbai-3732-2111547-254574677-0"
+  },
+  {
+    "route_number": "A-39",
+    "route_description": "Majas Depot - Veer Hutatma Bhai Kotwal Udyan (Plaza)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_39-Mumbai-3732-2111547-284354899-0"
+  },
+  {
+    "route_number": "A-42",
+    "route_description": "Kamala Nehru Park (Malabar Hill) - Noorbaug",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_42-Mumbai-3732-2111547-324222187-0"
+  },
+  {
+    "route_number": "A-42",
+    "route_description": "Kamala Nehru Park (Malabar Hill) - Ferry Wharf",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_42-Mumbai-3732-2111547-324222186-0"
+  },
+  {
+    "route_number": "A-42",
+    "route_description": "Kamala Nehru Park (Malabar Hill) - Maharana Pratap Chowk (Mazgaon)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_42-Mumbai-3732-2111547-324222188-0"
+  },
+  {
+    "route_number": "A-44",
+    "route_description": "Worli Depot - Shrawan Yashwante Chowk (Kala Chowky)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_44-Mumbai-3732-2111547-280679803-0"
+  },
+  {
+    "route_number": "A-45",
+    "route_description": "Backbay Depot - Mahul Village",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_45-Mumbai-3732-2111547-266081192-0"
+  },
+  {
+    "route_number": "A-49",
+    "route_description": "Mumbai Central Depot - Mahul Village",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_49-Mumbai-3732-2111547-180768216-0"
+  },
+  {
+    "route_number": "AC-53",
+    "route_description": "Ghatkopar Bus Station - Kalamboli Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-AC_53-Mumbai-3732-2111547-266081392-0"
+  },
+  {
+    "route_number": "A-56",
+    "route_description": "Worli Depot - Vesava Yari Road Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_56-Mumbai-3732-2111547-280679806-0"
+  },
+  {
+    "route_number": "A-58",
+    "route_description": "Kurla Bus Station (E) - Wadala Truck Terminal",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_58-Mumbai-3732-2111547-181034017-0"
+  },
+  {
+    "route_number": "A-59",
+    "route_description": "Kurla Bus Station (E) - Veer Hutatma Bhai Kotwal Udyan (Plaza)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_59-Mumbai-3732-2111547-60061030-0"
+  },
+  {
+    "route_number": "A-62",
+    "route_description": "Vidyavihar Bus Station - Pandit Paluskar Chowk (Opera House)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_62-Mumbai-3732-2111547-277879290-0"
+  },
+  {
+    "route_number": "A-63",
+    "route_description": "Chunabhatti Bus Station - Vasantrao Naik Chowk (Tardeo)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_63-Mumbai-3732-2111547-271301246-0"
+  },
+  {
+    "route_number": "A-63",
+    "route_description": "Byculla Station (W) - J.Mehta Marg (Napean Sea Road)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_63-Mumbai-3732-2111547-267852012-0"
+  },
+  {
+    "route_number": "AC-72",
+    "route_description": "Dharavi Depot - Bhayander Station (E)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-AC_72-Mumbai-3732-2111547-179421897-0"
+  },
+  {
+    "route_number": "A-76",
+    "route_description": "Byculla Station (W) - Godrej Chowk (Kemps Corner)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_76-Mumbai-3732-2111547-313193477-0"
+  },
+  {
+    "route_number": "A-77",
+    "route_description": "Byculla Station (W) - Godrej Chowk (Kemps Corner)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_77-Mumbai-3732-2111547-58191578-0"
+  },
+  {
+    "route_number": "A-78",
+    "route_description": "Byculla Station (W) - Dr.Shyamaprasad Mukherjee Chowk (Museum)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_78-Mumbai-3732-2111547-216206250-0"
+  },
+  {
+    "route_number": "A-82",
+    "route_description": "Worli Depot - Mantralaya",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_82-Mumbai-3732-2111547-61283646-0"
+  },
+  {
+    "route_number": "A-84",
+    "route_description": "Goregaon Oshiwara Depot - Dr.Shyamaprasad Mukherjee Chowk (Museum)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_84-Mumbai-3732-2111547-300112978-0"
+  },
+  {
+    "route_number": "A-85",
+    "route_description": "Kurla Bus Station (E) - Pandit Paluskar Chowk (Opera House)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_85-Mumbai-3732-2111547-265866473-0"
+  },
+  {
+    "route_number": "A-89",
+    "route_description": "Worli Depot - Mantralaya",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_89-Mumbai-3732-2111547-121442401-0"
+  },
+  {
+    "route_number": "A-92",
+    "route_description": "Anushakti Nagar Bus Station - Vasantrao Naik Chowk (Tardeo)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_92-Mumbai-3732-2111547-271301253-0"
+  },
+  {
+    "route_number": "A-92",
+    "route_description": "Deonar Depot - Vasantrao Naik Chowk (Tardeo)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_92-Mumbai-3732-2111547-58431092-0"
+  },
+  {
+    "route_number": "A-101",
+    "route_description": "Mahatma Phule Market (Crawford Market) - World Trade Center",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_101-Mumbai-3732-2111547-309124444-0"
+  },
+  {
+    "route_number": "A-102",
+    "route_description": "Grant Road Station (E) - Vijay Vallabh Chowk (Pydhonie)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_102-Mumbai-3732-2111547-42107003-0"
+  },
+  {
+    "route_number": "A-103",
+    "route_description": "RC Church - Kamala Nehru Park (Malabar Hill)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_103-Mumbai-3732-2111547-331071708-0"
+  },
+  {
+    "route_number": "A-104",
+    "route_description": "J.Mehta Marg (Napean Sea Road) - Vijay Vallabh Chowk (Pydhonie)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_104-Mumbai-3732-2111547-219816976-0"
+  },
+  {
+    "route_number": "A-104",
+    "route_description": "J.Mehta Marg (Napean Sea Road) - Grant Road Station (W)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_104-Mumbai-3732-2111547-219816975-0"
+  },
+  {
+    "route_number": "A-105",
+    "route_description": "Kamala Nehru Park (Malabar Hill) - Tardeo Bus Station (Rushi Mehta Chowk)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_105-Mumbai-3732-2111547-354721213-0"
+  },
+  {
+    "route_number": "A-105",
+    "route_description": "Kamala Nehru Park (Malabar Hill) - Vijay Vallabh Chowk (Pydhonie)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_105-Mumbai-3732-2111547-324222185-0"
+  },
+  {
+    "route_number": "A-105",
+    "route_description": "Kamala Nehru Park (Malabar Hill) - Novelty Cinema (Dr.Bhadamkar Road Junction)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_105-Mumbai-3732-2111547-324222184-0"
+  },
+  {
+    "route_number": "A-106",
+    "route_description": "Kamala Nehru Park (Malabar Hill) - RC Church",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_106-Mumbai-3732-2111547-68971577-0"
+  },
+  {
+    "route_number": "A-108",
+    "route_description": "Chhatrapati Shivaji Maharaj Terminus - Kamala Nehru Park (Malabar Hill)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_108-Mumbai-3732-2111547-60238021-0"
+  },
+  {
+    "route_number": "A-111",
+    "route_description": "Chhatrapati Shivaji Maharaj Terminus - Free Press Journal Marg",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_111-Mumbai-3732-2111547-42107011-0"
+  },
+  {
+    "route_number": "A-112",
+    "route_description": "Ahilyabai Holkar Chowk (Churchgate) - Gateway Of India (Colaba)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_112-Mumbai-3732-2111547-42107012-0"
+  },
+  {
+    "route_number": "A-113",
+    "route_description": "Mahatma Phule Market (Crawford Market) - Ahilyabai Holkar Chowk (Churchgate)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_113-Mumbai-3732-2111547-44198087-0"
+  },
+  {
+    "route_number": "A-115",
+    "route_description": "Chhatrapati Shivaji Maharaj Terminus - NCPA",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_115-Mumbai-3732-2111547-42107013-0"
+  },
+  {
+    "route_number": "A-116",
+    "route_description": "Chhatrapati Shivaji Maharaj Terminus - Gateway Of India (Colaba)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_116-Mumbai-3732-2111547-55012502-0"
+  },
+  {
+    "route_number": "A-117",
+    "route_description": "Wadala Station (W) - Sangam Nagar (Wadala-E)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_117-Mumbai-3732-2111547-262984311-0"
+  },
+  {
+    "route_number": "A-118",
+    "route_description": "Worli Village - Dadar Station (W)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_118-Mumbai-3732-2111547-262984312-0"
+  },
+  {
+    "route_number": "A-119",
+    "route_description": "Kasturba Gandhi Chowk (C.P Tank) - Pandit Paluskar Chowk (Opera House)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_119-Mumbai-3732-2111547-71950094-0"
+  },
+  {
+    "route_number": "A-121",
+    "route_description": "Backbay Depot - J.Mehta Marg (Napean Sea Road)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_121-Mumbai-3732-2111547-42107014-0"
+  },
+  {
+    "route_number": "A-122",
+    "route_description": "Ballard Pier - J.Mehta Marg (Napean Sea Road)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_122-Mumbai-3732-2111547-354721226-0"
+  },
+  {
+    "route_number": "A-123",
+    "route_description": "Vasantrao Naik Chowk (Tardeo) - RC Church",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_123-Mumbai-3732-2111547-264022380-0"
+  },
+  {
+    "route_number": "A-124",
+    "route_description": "Worli Depot - Colaba Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_124-Mumbai-3732-2111547-61283637-0"
+  },
+  {
+    "route_number": "A-125",
+    "route_description": "Worli Depot - Navy Nagar (Colaba)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_125-Mumbai-3732-2111547-280679838-0"
+  },
+  {
+    "route_number": "A-126",
+    "route_description": "Jijamata Udyan (Byculla) - Mantralaya",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_126-Mumbai-3732-2111547-191163821-0"
+  },
+  {
+    "route_number": "A-132",
+    "route_description": "Mumbai Central Depot - Colaba Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_132-Mumbai-3732-2111547-190833410-0"
+  },
+  {
+    "route_number": "A-134",
+    "route_description": "Backbay Depot - Prabodhankar Thackeray Udyan Bus Station (Sewree)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_134-Mumbai-3732-2111547-42107016-0"
+  },
+  {
+    "route_number": "A-135",
+    "route_description": "J.Mehta Marg (Napean Sea Road) - Ferry Wharf",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_135-Mumbai-3732-2111547-60238036-0"
+  },
+  {
+    "route_number": "A-136",
+    "route_description": "Backbay Depot - Ahilyabai Holkar Chowk (Churchgate)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_136-Mumbai-3732-2111547-60238037-0"
+  },
+  {
+    "route_number": "A-137",
+    "route_description": "Navy Nagar (Colaba) - Ahilyabai Holkar Chowk (Churchgate)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_137-Mumbai-3732-2111547-42107017-0"
+  },
+  {
+    "route_number": "A-138",
+    "route_description": "Backbay Depot - Chhatrapati Shivaji Maharaj Terminus",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_138-Mumbai-3732-2111547-42107018-0"
+  },
+  {
+    "route_number": "A-154",
+    "route_description": "Byculla Station (W) - Nehru Planetarium NSCI (Worli)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_154-Mumbai-3732-2111547-268737477-0"
+  },
+  {
+    "route_number": "A-155",
+    "route_description": "Grant Road Station (W) - Cumbala Hill Post Office",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_155-Mumbai-3732-2111547-60445937-0"
+  },
+  {
+    "route_number": "A-162",
+    "route_description": "Worli Village - Prabodhankar Thackeray Udyan Bus Station (Sewree)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_162-Mumbai-3732-2111547-59974772-0"
+  },
+  {
+    "route_number": "A-164",
+    "route_description": "Dharavi Depot - Maharana Pratap Chowk (Mazgaon)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_164-Mumbai-3732-2111547-263398624-0"
+  },
+  {
+    "route_number": "A-167",
+    "route_description": "Comrade PK Kurne Chowk (Worli) - Prabhadevi Station (W)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_167-Mumbai-3732-2111547-42107022-0"
+  },
+  {
+    "route_number": "A-171",
+    "route_description": "Worli Depot - Antop Hill",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_171-Mumbai-3732-2111547-61283636-0"
+  },
+  {
+    "route_number": "A-172",
+    "route_description": "Pratiksha Nagar Depot - Veer Hutatma Bhai Kotwal Udyan (Plaza)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_172-Mumbai-3732-2111547-297308315-0"
+  },
+  {
+    "route_number": "A-174",
+    "route_description": "Veer Hutatma Bhai Kotwal Udyan (Plaza) - Bharani Naka (Antop Hill)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_174-Mumbai-3732-2111547-42107026-0"
+  },
+  {
+    "route_number": "A-175",
+    "route_description": "Pratiksha Nagar Depot - Prabodhankar Thackeray Chowk Dadar",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_175-Mumbai-3732-2111547-280679853-0"
+  },
+  {
+    "route_number": "A-176",
+    "route_description": "Dharavi Depot - National Hinduja Hospital",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_176-Mumbai-3732-2111547-262328282-0"
+  },
+  {
+    "route_number": "A-176",
+    "route_description": "Dharavi Depot - Matunga Station (W)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_176-Mumbai-3732-2111547-262328281-0"
+  },
+  {
+    "route_number": "A-180",
+    "route_description": "Malvani Depot (Gaikwad Nagar) - Chhatrapati Shivaji Maharaj International Airport (Sahar)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_180-Mumbai-3732-2111547-262520705-0"
+  },
+  {
+    "route_number": "A-180",
+    "route_description": "Malvani Depot (Gaikwad Nagar) - Andheri Station (W)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_180-Mumbai-3732-2111547-262520702-0"
+  },
+  {
+    "route_number": "A-183",
+    "route_description": "Kurla Station (W) - Swavalamban Bhavan BKC",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_183-Mumbai-3732-2111547-278114840-0"
+  },
+  {
+    "route_number": "A-185",
+    "route_description": "Kannamwar Nagar No.2 - Agarkar Chowk (Andheri-E)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_185-Mumbai-3732-2111547-57674808-0"
+  },
+  {
+    "route_number": "A-200",
+    "route_description": "Vesave Yari Road Bus Station - Jijamata Udyan (Byculla)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_200-Mumbai-3732-2111547-297065728-0"
+  },
+  {
+    "route_number": "A-202",
+    "route_description": "Gorai Depot - Mahim Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_202-Mumbai-3732-2111547-59503914-0"
+  },
+  {
+    "route_number": "A-203",
+    "route_description": "Juhu Beach - Dahisar Bridge",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_203-Mumbai-3732-2111547-269009624-0"
+  },
+  {
+    "route_number": "A-204",
+    "route_description": "Goregaon (W) Bus Station - Gomant Nagar (Dahisar W)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_204-Mumbai-3732-2111547-308333682-0"
+  },
+  {
+    "route_number": "A-205",
+    "route_description": "Jogeshwari (W) Bus Station - Gomant Nagar (Dahisar W)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_205-Mumbai-3732-2111547-308333683-0"
+  },
+  {
+    "route_number": "A-206",
+    "route_description": "Prabodhankar Thackeray Nagar Bus Station (Charkop Bus Station) - IC Colony",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_206-Mumbai-3732-2111547-44681823-0"
+  },
+  {
+    "route_number": "A-207",
+    "route_description": "Malvani Depot (Gaikwad Nagar) - Dahisar Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_207-Mumbai-3732-2111547-309311870-0"
+  },
+  {
+    "route_number": "A-208",
+    "route_description": "Borivali Station (W) - Ashish Complex",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_208-Mumbai-3732-2111547-270376503-0"
+  },
+  {
+    "route_number": "A-208",
+    "route_description": "Borivali Station (W) - Saraswati Complex (Dahisar)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_208-Mumbai-3732-2111547-179648886-0"
+  },
+  {
+    "route_number": "A-209",
+    "route_description": "Samata Nagar Bus Station (Kandivali) - Ashish Complex",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_209-Mumbai-3732-2111547-269009628-0"
+  },
+  {
+    "route_number": "A-211",
+    "route_description": "Bandra (W) Bus Station - Father Agnel Ashram",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_211-Mumbai-3732-2111547-309311874-0"
+  },
+  {
+    "route_number": "A-214",
+    "route_description": "Bandra (W) Bus Station - Mount Mary Steps (Municipal Garden)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_214-Mumbai-3732-2111547-307696838-0"
+  },
+  {
+    "route_number": "A-215",
+    "route_description": "Bandra Reclamation Bus Station - Tata Colony (Bandra-E)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_215-Mumbai-3732-2111547-309311876-0"
+  },
+  {
+    "route_number": "A-219",
+    "route_description": "Bandra Station (W) - Bandra Reclamation Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_219-Mumbai-3732-2111547-303188707-0"
+  },
+  {
+    "route_number": "A-220",
+    "route_description": "Bandra Station (W) - Khar Station (W)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_220-Mumbai-3732-2111547-303188708-0"
+  },
+  {
+    "route_number": "A-221",
+    "route_description": "Andheri Station (W) - Vesave Yari Road Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_221-Mumbai-3732-2111547-308333691-0"
+  },
+  {
+    "route_number": "A-224",
+    "route_description": "Santacruz Depot - Borivali Station (W)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_224-Mumbai-3732-2111547-331071713-0"
+  },
+  {
+    "route_number": "A-226",
+    "route_description": "Barve Nagar To Gorai Depot",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_226-Mumbai-3732-2111547-271090863-0"
+  },
+  {
+    "route_number": "A-226",
+    "route_description": "Prabodhankar Thackeray Nagar Bus Station (Charkop) - Barve Nagar",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_226-Mumbai-3732-2111547-200857456-0"
+  },
+  {
+    "route_number": "A-234",
+    "route_description": "Jogeshwari (W) Bus Station - Vesave Yari Road Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_234-Mumbai-3732-2111547-308333694-0"
+  },
+  {
+    "route_number": "A-235",
+    "route_description": "Andheri Station (W) - Millat Nagar",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_235-Mumbai-3732-2111547-331071704-0"
+  },
+  {
+    "route_number": "A-240",
+    "route_description": "Kandar Pada Bus Station - Shanti Ashram",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_240-Mumbai-3732-2111547-44681836-0"
+  },
+  {
+    "route_number": "A-241",
+    "route_description": "Malvani Depot (Gaikwad Nagar) - Santacruz Depot",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_241-Mumbai-3732-2111547-280679869-0"
+  },
+  {
+    "route_number": "A-243",
+    "route_description": "Malad Station (W) - Jankalyan Nagar",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_243-Mumbai-3732-2111547-280679870-0"
+  },
+  {
+    "route_number": "A-244",
+    "route_description": "Borivali Station (W) - Kandivali Station (W)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_244-Mumbai-3732-2111547-269271933-0"
+  },
+  {
+    "route_number": "A-245",
+    "route_description": "Prabodhankar Thackeray Nagar Bus Station (Charkop Bus Station) - Kandar Pada Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_245-Mumbai-3732-2111547-44681838-0"
+  },
+  {
+    "route_number": "A-246",
+    "route_description": "Borivali Station (W) - Kandivali Station (W)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_246-Mumbai-3732-2111547-269790478-0"
+  },
+  {
+    "route_number": "A-247",
+    "route_description": "Borivali Station (W) - Gorai Khadi",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_247-Mumbai-3732-2111547-44681839-0"
+  },
+  {
+    "route_number": "A-248",
+    "route_description": "Andheri Station (W) - Ramesh Nagar (Andheri)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_248-Mumbai-3732-2111547-331071706-0"
+  },
+  {
+    "route_number": "A-251",
+    "route_description": "Andheri Station (W) - Vesave Village",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_251-Mumbai-3732-2111547-308333702-0"
+  },
+  {
+    "route_number": "A-254",
+    "route_description": "Andheri Station (W) - Veera Desai Road (Extension)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_254-Mumbai-3732-2111547-331071711-0"
+  },
+  {
+    "route_number": "A-256",
+    "route_description": "Malvani Depot (Gaikwad Nagar) - Juhu Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_256-Mumbai-3732-2111547-62178935-0"
+  },
+  {
+    "route_number": "A-259",
+    "route_description": "Gorai Depot - Andheri Station (W)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_259-Mumbai-3732-2111547-265002484-0"
+  },
+  {
+    "route_number": "A-261",
+    "route_description": "Goregaon (W) Bus Station - Jogeshwari (W) Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_261-Mumbai-3732-2111547-62178939-0"
+  },
+  {
+    "route_number": "A-268",
+    "route_description": "Andheri Station (W) - Shree Swami Samarth Nagar (Extension)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_268-Mumbai-3732-2111547-42197728-0"
+  },
+  {
+    "route_number": "A-269",
+    "route_description": "Gorai Depot - Madh Jetty",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_269-Mumbai-3732-2111547-99167571-0"
+  },
+  {
+    "route_number": "A-269",
+    "route_description": "Borivali Station (W) - Madh Jetty",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_269-Mumbai-3732-2111547-222404257-0"
+  },
+  {
+    "route_number": "A-273",
+    "route_description": "Malad Station (W) - Mhada Colony Malvani",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_273-Mumbai-3732-2111547-316851234-0"
+  },
+  {
+    "route_number": "A-273",
+    "route_description": "Malvani Depot (Gaikwad Nagar) - Malad Station (W)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_273-Mumbai-3732-2111547-316851235-0"
+  },
+  {
+    "route_number": "A-274",
+    "route_description": "Kandivali Station (W) - Bunder Pakhadi Village",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_274-Mumbai-3732-2111547-269790481-0"
+  },
+  {
+    "route_number": "A-276",
+    "route_description": "Kandivali Station (W) - Charkop Sector No.8",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_276-Mumbai-3732-2111547-308333712-0"
+  },
+  {
+    "route_number": "A-277",
+    "route_description": "Kandivali Railway Station (W) - Borivali Railway Station (W)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_277-Mumbai-3732-2111547-200857481-0"
+  },
+  {
+    "route_number": "A-278",
+    "route_description": "Kandivali Station (W) - Marina Enclave Complex (Malad)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_278-Mumbai-3732-2111547-288725768-0"
+  },
+  {
+    "route_number": "A-280",
+    "route_description": "Kandivali Station (W) - Mahavir Nagar Extension (Parijat Society)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_280-Mumbai-3732-2111547-269790482-0"
+  },
+  {
+    "route_number": "A-281",
+    "route_description": "Kandivali Station (W) - Pushpa Park (Malad)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_281-Mumbai-3732-2111547-269790477-0"
+  },
+  {
+    "route_number": "A-282",
+    "route_description": "Kandivali Bus Station (E) - Damu Nagar (Extension)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_282-Mumbai-3732-2111547-130790724-0"
+  },
+  {
+    "route_number": "A-286",
+    "route_description": "Kandivali Station (W) - Charkop Village",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_286-Mumbai-3732-2111547-269965964-0"
+  },
+  {
+    "route_number": "A-287",
+    "route_description": "Kandivali Bus Station (E) - ESIS Hospital (Thakur Village)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_287-Mumbai-3732-2111547-43390963-0"
+  },
+  {
+    "route_number": "A-288",
+    "route_description": "Kandivali Bus Station (E) - Kranti Nagar (Kandivali)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_288-Mumbai-3732-2111547-43390964-0"
+  },
+  {
+    "route_number": "A-289",
+    "route_description": "Kandivali Bus Station (E) - Anita Nagar",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_289-Mumbai-3732-2111547-130790728-0"
+  },
+  {
+    "route_number": "A-293",
+    "route_description": "Jai Maharashtra Nagar (Borivali) - Shree Krishna Nagar Post Office",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_293-Mumbai-3732-2111547-42487417-0"
+  },
+  {
+    "route_number": "A-294",
+    "route_description": "Borivali Station (W) - Gorai Khadi",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_294-Mumbai-3732-2111547-42487418-0"
+  },
+  {
+    "route_number": "A-296",
+    "route_description": "New Link Road Junction (Kandivali) - Shanti Ashram",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_296-Mumbai-3732-2111547-44681856-0"
+  },
+  {
+    "route_number": "A-297",
+    "route_description": "Borivali Station (E) - Kokanipada (Extension)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_297-Mumbai-3732-2111547-270632546-0"
+  },
+  {
+    "route_number": "A-297",
+    "route_description": "Omkareshwar Mandir - Kokanipada (Extension)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_297-Mumbai-3732-2111547-216206338-0"
+  },
+  {
+    "route_number": "A-298",
+    "route_description": "Borivali Station (E) - Rawal Pada",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_298-Mumbai-3732-2111547-269965962-0"
+  },
+  {
+    "route_number": "A-300",
+    "route_description": "Kandivali (E) Bus Station - Sanskruti Apartments",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_300-Mumbai-3732-2111547-43390969-0"
+  },
+  {
+    "route_number": "A-301",
+    "route_description": "Borivali Station (E) - Hanuman Tekdi (Borivali)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_301-Mumbai-3732-2111547-270632551-0"
+  },
+  {
+    "route_number": "A-301",
+    "route_description": "Omkareshwar Mandir - Hanuman Tekdi (Borivali)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_301-Mumbai-3732-2111547-270632550-0"
+  },
+  {
+    "route_number": "A-310",
+    "route_description": "Kurla Station (W) - Bandra Terminus",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_310-Mumbai-3732-2111547-218440730-0"
+  },
+  {
+    "route_number": "A-311",
+    "route_description": "Santacruz Station (E) - Kurla Station (W)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_311-Mumbai-3732-2111547-218218748-0"
+  },
+  {
+    "route_number": "A-313",
+    "route_description": "Kurla Station (W) - Santacruz Station (E)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_313-Mumbai-3732-2111547-308333735-0"
+  },
+  {
+    "route_number": "A-314",
+    "route_description": "Bandra (E) Bus Station - Uttar Bhartiya Sangha",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_314-Mumbai-3732-2111547-246831386-0"
+  },
+  {
+    "route_number": "A-318",
+    "route_description": "Kurla Station (W) - Santacruz Station (E)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_318-Mumbai-3732-2111547-278114886-0"
+  },
+  {
+    "route_number": "A-319",
+    "route_description": "Majas Depot - Kurla Station (W)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_319-Mumbai-3732-2111547-286670897-0"
+  },
+  {
+    "route_number": "A-322",
+    "route_description": "Vidyavihar Bus Station - Mahant Road (Vile Parle)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_322-Mumbai-3732-2111547-305932124-0"
+  },
+  {
+    "route_number": "A-323",
+    "route_description": "Vidyavihar Bus Station - Sangharsh Nagar (Chandivali)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_323-Mumbai-3732-2111547-305932122-0"
+  },
+  {
+    "route_number": "A-325",
+    "route_description": "Ghatkopar Station (W) - Kurla Station (W)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_325-Mumbai-3732-2111547-63560918-0"
+  },
+  {
+    "route_number": "A-326",
+    "route_description": "Kurla Depot - Shivshahi Prakalp (Mantri Park)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_326-Mumbai-3732-2111547-304903887-0"
+  },
+  {
+    "route_number": "A-326",
+    "route_description": "Kurla Station (W) - Shivshahi Prakalp (Mantri Park)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_326-Mumbai-3732-2111547-304903889-0"
+  },
+  {
+    "route_number": "A-329",
+    "route_description": "Shivaji Nagar Bus Station - Agarkar Chowk (Andheri-E)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_329-Mumbai-3732-2111547-287390311-0"
+  },
+  {
+    "route_number": "A-330",
+    "route_description": "Kurla Station (W) - Agarkar Chowk (Andheri)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_330-Mumbai-3732-2111547-277879383-0"
+  },
+  {
+    "route_number": "A-331",
+    "route_description": "Ghatkopar Station (W) - Sahar Cargo Complex",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_331-Mumbai-3732-2111547-265866558-0"
+  },
+  {
+    "route_number": "A-332",
+    "route_description": "Kurla Station (W) - Agarkar Chowk (Andheri-E)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_332-Mumbai-3732-2111547-57674854-0"
+  },
+  {
+    "route_number": "A-334",
+    "route_description": "Marol Depot - Ghatkopar Station (W)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_334-Mumbai-3732-2111547-219615092-0"
+  },
+  {
+    "route_number": "A-336",
+    "route_description": "Rani Laxmibai Chowk (Sion) - Antop Hill",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_336-Mumbai-3732-2111547-309311935-0"
+  },
+  {
+    "route_number": "A-340",
+    "route_description": "Ghatkopar Station (W) - Agarkar Chowk (Andheri-E)",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_340-Mumbai-3732-2111547-267369973-0"
+  },
+  {
+    "route_number": "A-341",
+    "route_description": "Antop Hill - Marol Maroshi Bus Station",
+    "url": "https://moovitapp.com/index/en/public_transit-line-A_341-Mumbai-3732-2111547-311955025-0"
+  }
+]
